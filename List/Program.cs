@@ -10,7 +10,7 @@ namespace List
     {
         static void Main(string[] args)
         {
-            //Create a List
+            //Create a List collection
             List<int> a = new List<int>() { 10, 20, 30, 40, 50,};
 
             //get values from list collection

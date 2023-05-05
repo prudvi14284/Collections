@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedDictionary", "SortedDictionary\SortedDictionary.csproj", "{86A1EF92-0CBD-4BFE-8299-BBBDCE491D51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Methods", "String Methods\String Methods.csproj", "{31840139-BF31-436B-B5A0-7A741898B6A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{86A1EF92-0CBD-4BFE-8299-BBBDCE491D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86A1EF92-0CBD-4BFE-8299-BBBDCE491D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86A1EF92-0CBD-4BFE-8299-BBBDCE491D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31840139-BF31-436B-B5A0-7A741898B6A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31840139-BF31-436B-B5A0-7A741898B6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31840139-BF31-436B-B5A0-7A741898B6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31840139-BF31-436B-B5A0-7A741898B6A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

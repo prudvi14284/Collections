@@ -20,7 +20,7 @@ namespace Arrays
             Console.WriteLine(a[4]);
             Console.WriteLine();
 
-            //Using For loop
+            //Get the values Using For loop
             Console.WriteLine("For Loop: ");
             for (int i = 0; i < a.Length; i++)
             {
@@ -28,7 +28,7 @@ namespace Arrays
             }
             Console.WriteLine();
 
-            //Using foreach Loop
+            //Get the values Using foreach Loop
             Console.WriteLine("Foreach Loop: ");
             foreach (int i in a)
             {
